@@ -1,16 +1,23 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: A little bit about me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Tomás León!
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- I'm currently a postdoc at UC-Berkeley in the [Marshall Lab](https://www.marshalllab.com)
 
-What else do you need?
+### Current Projects
 
-### my history
+UNDER CONSTRUCTION
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+### My background
+
+B.S. Environmental Engineering, Georgia Tech, 2012
+- Minor in Sociology
+M.S. Global Health & Environment, UC-Berkeley, 2014
+Ph.D. Environmental Health Sciences, UC-Berkeley, 2018
+- Designated Emphasis in Development Engineering
+
+Email me for more background information.
