@@ -24,15 +24,15 @@ description: A collection of my professional and personal projects and associate
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Research: "research"
+  Research:
     - Mosquito movement modeling: "movement"
     - Gene drives & the environment: "genedrive_environment"
-  Past Projects: "pastprojects"
+  Past Projects:
     - Liver fluke transmission: "liverfluke"
     - Schistosomiasis: "schisto"
     - Small-scale water treatment: "watertreatment"
     - Miscellaneous: "misc"
-  Personal: "personal"
+  Personal:
     - Recommended reading: "recommended_reading"
     - Travel: "travel"
   Author's home: "https://tomasleon.github.io"
