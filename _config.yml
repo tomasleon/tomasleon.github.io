@@ -28,10 +28,10 @@ navbar-links:
     - Mosquito movement modeling: "movement"
     - Gene drives & the environment: "genedrive_environment"
   Past Projects: "pastprojects"
-    - Liver fluke transmission
-    - Schistosomiasis
-    - Small-scale water treatment
-    - Miscellaneous
+    - Liver fluke transmission: "liverfluke"
+    - Schistosomiasis: "schisto"
+    - Small-scale water treatment: "watertreatment"
+    - Miscellaneous: "misc"
   Personal: "personal"
     - Recommended reading: "recommended_reading"
     - Travel: "travel"
