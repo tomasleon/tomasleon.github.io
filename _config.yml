@@ -23,7 +23,7 @@ description: A collection of my professional and personal projects and associate
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme.md"
+  About Me: "aboutme"
   Research: "research"
     - Mosquito movement modeling: "movement"
     - Gene drives & the environment: "genedrive_environment"
