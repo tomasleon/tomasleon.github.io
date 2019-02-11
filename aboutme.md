@@ -8,16 +8,13 @@ My name is Tomás León. I'm currently a postdoc at UC-Berkeley in the [Marshall
 
 Previously, I did my PhD in Environmental Health Sciences under [Robert C. Spear, who spent most of his recent career on schistosomiasis](https://schistoatberkeley.weebly.com/). I adapted and expanded his environmental determinants of transmission approach to the case of opisthorchiasis (liver flukes) in northeast Thailand and clonorchiasis in southeast China.
 
-### Current Projects
-
-UNDER CONSTRUCTION
-
-### My background
+### My academic background
 
 - B.S. Environmental Engineering, Georgia Tech, 2012
   - Minor in Sociology
 - M.S. Global Health & Environment, UC-Berkeley, 2014
 - Ph.D. Environmental Health Sciences, UC-Berkeley, 2018
   - Designated Emphasis in Development Engineering
+  
 
 Email me for more background information.
