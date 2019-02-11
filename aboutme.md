@@ -14,10 +14,10 @@ UNDER CONSTRUCTION
 
 ### My background
 
-B.S. Environmental Engineering, Georgia Tech, 2012
-- Minor in Sociology
-M.S. Global Health & Environment, UC-Berkeley, 2014
-Ph.D. Environmental Health Sciences, UC-Berkeley, 2018
-- Designated Emphasis in Development Engineering
+- B.S. Environmental Engineering, Georgia Tech, 2012
+  - Minor in Sociology
+- M.S. Global Health & Environment, UC-Berkeley, 2014
+- Ph.D. Environmental Health Sciences, UC-Berkeley, 2018
+  - Designated Emphasis in Development Engineering
 
 Email me for more background information.
