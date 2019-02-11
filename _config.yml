@@ -97,7 +97,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "tomasleon.github.io"  # Change if there's a redirect
+url-pretty: "tomasleon.com"  # Change if there's a redirect
 
 # --- Web Statistics Section --- #
 
