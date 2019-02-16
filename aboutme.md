@@ -20,4 +20,4 @@ Previously, I did my PhD in Environmental Health Sciences under [Robert C. Spear
   - Designated Emphasis in Development Engineering
   
 
-Email me for more background information.
+Email me for more background information. A copy of my CV is available [here](CV_Tomas_Leon_2018b.pdf).
