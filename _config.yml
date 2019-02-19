@@ -28,8 +28,9 @@ navbar-links:
   Research:
     - Mosquito movement modeling: "movement"
     - Gene drives & the environment: "genedrive_environment"
-  Past Projects:
     - Liver fluke transmission: "liverfluke"
+    Teaching: "teaching"
+  Past Projects:
     - Schistosomiasis: "schisto"
     - Small-scale water treatment: "watertreatment"
     - Miscellaneous: "misc"
