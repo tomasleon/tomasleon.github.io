@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Mosquito movement modeling
-subtitle: They fly around in unpredictable ways 
+subtitle: Flying around in unpredictable (?) ways 
 ---
 
-### UNDER CONSTRUCTION
+![Mosquito patch movement](/img/mosq_blueyellow.gif)
