@@ -13,11 +13,13 @@ Previously, I did my PhD in Environmental Health Sciences under [Robert C. Spear
 
 ### My academic background
 
-- B.S. Environmental Engineering, Georgia Tech, 2012
-  - Minor in Sociology
-- M.S. Global Health & Environment, UC-Berkeley, 2014
 - Ph.D. Environmental Health Sciences, UC-Berkeley, 2018
   - Designated Emphasis in Development Engineering
+- M.S. Global Health & Environment, UC-Berkeley, 2014
+- B.S. Environmental Engineering, Georgia Tech, 2012
+  - Minor in Sociology
+
+
   
 
 Email me for more background information. A copy of my CV is available [here](CV_Tomas_Leon_2018b.pdf).
