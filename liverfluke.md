@@ -16,3 +16,8 @@ My dissertation covered the following topics:
 A major innovation of my dissertation was the use of hydrologic data to inform disease transmission models of the complex life cycle of liver flukes. This intersection between public heatlh and engineering is currently a small research nexus that has significant potential for new insights and strategies for disease control. I worked with the Faculty of Engineering and Faculty of Medicine at Khon Kaen University as well as many other collaborators in Thailand and the US on this project.
 
 Previously, my master's thesis also included work on _Clonorchis sinensis_, another species of liver fluke more common in China, and the role of aquaculture farms in facilitating the transmission of both species of liver flukes in their respective environments.
+
+Some published results:
+
+* [Modeling liver fluke transmission in northeast Thailand: Impacts of development, hydrology, and control, _Acta Tropica_ 2018](https://www.sciencedirect.com/science/article/pii/S0001706X18304601)
+* [Experimental and modelling investigations of _Opisthorchis viverrini_ miracidia transmission over time and across temperatures: implications for control](https://www.sciencedirect.com/science/article/abs/pii/S0020751917300425)
