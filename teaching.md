@@ -6,8 +6,10 @@ subtitle: History of my teaching experiences
 
 ## Berkeley
 
+2019: Guest lectures in Infectious Disease Modeling, Environmental and Occupational Epidemiology
 2017: Graduate student instructor for Intro to Environmental Health Sciences (for MPH students)
 2016: Graduate student instructor and in-class lecturer for Intervention Trial Design
+2015: Guest lecture in Intro to Environmental Health Sciences (for MPH students)
 
 ## Patten University/Prison University Project
 
