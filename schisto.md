@@ -10,4 +10,4 @@ Over the course of several years and visits to Sichuan Province in China (2016-2
 
 ![Ditch weir](/img/China_website2.jpeg)
 
-![Ditch weir2](/img/China_website3.jpeg)
+![Ditch weir2](/img/China_website3.jpg)
