@@ -5,7 +5,7 @@ subtitle: A little bit about me
 tags: img
 ---
 <p align="center"> 
-<img src="/img/new-headshot-square.jpeg" width = 600 />
+<img src="/img/new-headshot-square.jpeg" width="600" />
 </p>
 
 My name is Tomás León. I'm currently a postdoc at UC-Berkeley in the [Marshall Lab](https://www.marshalllab.com). My work focuses on the fine-scale movement of _Aedes aegypti_ and _Anopheles gambiae_ mosquitoes and the impacts of the environment on their ecology. This work is supported by the [DARPA Safe Genes program](https://www.darpa.mil/program/safe-genes) and the [UC-Irvine Malaria Initiative](http://malaria.bio.uci.edu/), as the consequences of my research have implications for the success of gene drives in mosquito populations for the disruption of malaria transmission and other mosquito-borne diseases.
