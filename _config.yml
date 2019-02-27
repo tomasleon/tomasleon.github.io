@@ -18,7 +18,7 @@ baseurl: ""
 title: Tomás León
 
 # Short description of your site
-description: A collection of my professional and personal projects and associated info.
+description: Professional and personal projects of Tomás León
 
 # --- Navigation bar options --- #
 
@@ -80,7 +80,7 @@ author:
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
-  rss: true
+  rss: false # true
   email: "tomas.leon@berkeley.edu"
   github: tomasleon
   twitter: tomasmleon
