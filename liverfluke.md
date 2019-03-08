@@ -20,6 +20,8 @@ Previously, my master's thesis also included work on _Clonorchis sinensis_, anot
 
 Some published results:
 
+* [Hydrology-informed metapopulation modeling of liver fluke transmission in the Lawa Lake complex of northeast Thailand, preprint on bioRxiv](https://www.biorxiv.org/content/10.1101/569913v1)
+
 * [Modeling liver fluke transmission in northeast Thailand: Impacts of development, hydrology, and control, _Acta Tropica_ 2018](https://www.sciencedirect.com/science/article/pii/S0001706X18304601)
 
 * [Experimental and modelling investigations of _Opisthorchis viverrini_ miracidia transmission over time and across temperatures: implications for control, _International Journal for Parasitology_ 2017](https://www.sciencedirect.com/science/article/abs/pii/S0020751917300425)
