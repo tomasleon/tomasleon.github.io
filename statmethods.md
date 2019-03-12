@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Schistosomiasis
+title: Statistical Methods Development
 ---
 
 Collaboration with Jean Claude Utazirubanda on using group lasso for survival analysis. Grew out of our meeting at an [ICI3D](http://www.ici3d.org/) conference.
