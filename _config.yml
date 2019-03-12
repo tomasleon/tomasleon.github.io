@@ -28,6 +28,7 @@ navbar-links:
     - Mosquito movement modeling: "movement"
     - Gene drives & the environment: "genedrive_environment"
     - Liver fluke transmission: "liverfluke"
+    - Statistical methods: "statmethods"
   Teaching: "teaching"
   Past Projects:
     - Schistosomiasis: "schisto"
