@@ -4,13 +4,13 @@ title: Recommended Reading
 subtitle: Books I enjoy
 ---
 
-### Global Health, Environment, Genetics (F & NF)
+### Global Health, Ecology, Genetics (F & NF)
 
 * _In the Company of the Poor_ (Farmer, Gutierrez)
 * _Mountains beyond Mountains_ (Kidder)
 * _Pilgrim at Tinker Creek_ (Dillard)
 * _House on Fire_ (Foege)
-* _The Windup Girl_ (Bacigalupi)
+* _Messages from Islands_ (Hanski)
 * _The Water Knife_ (Bacigalupi)
 * _Nature Writings_ (Muir)
 * _Emperor of All Maladies_ (Mukherjee)
