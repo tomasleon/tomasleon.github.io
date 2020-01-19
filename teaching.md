@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Teaching
-subtitle: History of my teaching experiences
+subtitle: Present and Past Classes I've Taught
 ---
 
 ## UC-Berkeley
