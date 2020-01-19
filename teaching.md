@@ -6,15 +6,15 @@ subtitle: History of my teaching experiences
 
 ## UC-Berkeley
 
-Infectious Disease Modeling - guest lecture, "Introduction to Stochastic Modeling" (2019)
+Introduction to GIS for Public Health – instructor of record and lecturer (2020)
 
-Environmental and Occupational Epidemiology - guest lecture, "WaSH and Helminth Disease Epidemiology" (2019)
+Infectious Disease Modeling – guest lecture, “Introduction to Stochastic Modeling” (2019)
 
-Intro to Environmental Health Sciences (for MPH students) - graduate student instructor (2017)
+Environmental and Occupational Epidemiology – guest lecture, “WaSH and Helminth Disease Epidemiology” (2019, 2020)
 
-Intervention Trial Design - graduate student instructor and guest lectures (2016)
+Intro to Environmental Health Sciences (for MPH students) – graduate student instructor (2017) Intervention Trial Design – graduate student instructor and guest lectures (2016)
 
-Intro to Environmental Health Sciences (for MPH students) - guest lecture, "Environmental Pathways for Infectious Disease" (2015)
+Intro to Environmental Health Sciences (for MPH students) – guest lecture, “Environmental Pathways for Infectious Disease” (2015)
 
 ## Patten University/Prison University Project
 
