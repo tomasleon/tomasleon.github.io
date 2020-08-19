@@ -6,7 +6,7 @@ subtitle: Present and Past Classes I've Taught
 
 ## UC-Berkeley
 
-Introduction to GIS for Public Health – instructor of record and lecturer (2020)
+[Introduction to GIS for Public Health – instructor of record and lecturer (2020)](https://onlinemph.berkeley.edu/oomph-faculty/)
 
 Environmental and Occupational Epidemiology – guest lecture, “WaSH and Helminth Disease Epidemiology” (2019, 2020)
 
