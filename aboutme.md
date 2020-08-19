@@ -23,4 +23,4 @@ Previously, I did my PhD in Environmental Health Sciences under [Robert C. Spear
 
   
 
-Email me for more background information. A copy of my CV is available [here](CV_Tomas_Leon_2020b.pdf).
+Email me for more background information. A copy of my resume is available [here](Resume_Tomas_Leon_2020e.pdf).
