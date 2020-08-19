@@ -9,3 +9,7 @@ Numerous environmental factors (temperature, habitat availability, etc.) are kno
 What are gene drives? Well, here are two resources ([1](https://innovativegenomics.org/resources/educational-materials/glossary/gene-drive/), [2](https://wyss.harvard.edu/technology/gene-drives/)) to get you up to speed on gene drives.
 
 I work primarily in mathematical modeling to address the problem of understanding how the environment will affect gene drive releases (all work-to-date has been conducted in the laboratory or in semi-field trials, which have significantly less environmental complexity). The mathematics of doing this is not straightforward. To see our current framework for gene drive modeling, check out the [MGDrivE](https://marshalllab.github.io/MGDrivE/) page.
+
+Papers:
+
+*  [Winning the tug-of-war between effector gene design and pathogen evolution in vector population replacement strategies](https://www.frontiersin.org/articles/10.3389/fgene.2019.01072/full)
