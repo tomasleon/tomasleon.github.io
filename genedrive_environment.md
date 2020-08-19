@@ -13,3 +13,7 @@ I work primarily in mathematical modeling to address the problem of understandin
 Papers:
 
 *  [Winning the tug-of-war between effector gene design and pathogen evolution in vector population replacement strategies](https://www.frontiersin.org/articles/10.3389/fgene.2019.01072/full)
+
+Posters:
+
+* [Incorporating environmental variables into mosquito gene drive modelling: fine-scale dispersal, temperature, and landscape-dependent connectivity (Epidemics7, 2019)](Epidemics7_Poster.pdf)
