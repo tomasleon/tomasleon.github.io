@@ -28,6 +28,7 @@ subtitle: Books I enjoy
 * _Why Liberalism Failed_ (Deneen)
 * _The Long Loneliness_ (Day)
 * _Sex, Economy, Freedom, and Community_ (Berry)
+* _God Created the Integers_ (Hawking)
 
 ### Fiction
 
@@ -41,3 +42,4 @@ subtitle: Books I enjoy
 * _Confederacy of Dunces_ (Toole)
 * _Foundation_ Trilogy (Asimov)
 * _Three-Body Problem_ (Liu)
+* _Broken Earth_ Series (Jemisin)
