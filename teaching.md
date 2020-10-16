@@ -6,7 +6,7 @@ subtitle: Present and Past Classes I've Taught
 
 ## UC-Berkeley
 
-[Introduction to GIS for Public Health – instructor of record and lecturer (2020)](https://onlinemph.berkeley.edu/oomph-faculty/)
+[Introduction to GIS for Public Health – instructor of record and lecturer (2020, 2021)](https://onlinemph.berkeley.edu/oomph-faculty/)
 
 Environmental and Occupational Epidemiology – guest lecture, “WaSH and Helminth Disease Epidemiology” (2019, 2020)
 
@@ -20,9 +20,9 @@ Intervention Trial Design – graduate student instructor and guest lectures (20
 
 Intro to Environmental Health Sciences (for MPH students) – guest lecture, “Environmental Pathways for Infectious Disease” (2015)
 
-## Patten University/Prison University Project
+## Mount Tamalpais College/Patten University
 
-Public Heatlh - curriculum designer and lead instructor (2019)
+Public Health - curriculum designer and lead instructor (2019)
 
 Environmental Justice Workshop - research assistant (2019)
 
