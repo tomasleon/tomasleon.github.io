@@ -18,6 +18,6 @@ Papers:
 
 Posters:
 
-* [New methods for modeling Anopheles gambiae s.l. movement with environmental and genetic data](TropMed2020_Poster.pdf)
+* [New methods for modeling Anopheles gambiae s.l. movement with environmental and genetic data (ASTMH, 2020](TropMed2020_Poster.pdf)
 
 * [Incorporating environmental variables into mosquito gene drive modelling: fine-scale dispersal, temperature, and landscape-dependent connectivity (Epidemics7, 2019)](Epidemics7_Poster.pdf)
