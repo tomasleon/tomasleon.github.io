@@ -12,8 +12,12 @@ I work primarily in mathematical modeling to address the problem of understandin
 
 Papers:
 
+* [MGDrivE 2: A simulation framework for gene drive systems incorporating seasonality and epidemiological dynamics](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009030)
+
 *  [Winning the tug-of-war between effector gene design and pathogen evolution in vector population replacement strategies](https://www.frontiersin.org/articles/10.3389/fgene.2019.01072/full)
 
 Posters:
+
+* [New methods for modeling Anopheles gambiae s.l. movement with environmental and genetic data](TropMed2020_Poster.pdf)
 
 * [Incorporating environmental variables into mosquito gene drive modelling: fine-scale dispersal, temperature, and landscape-dependent connectivity (Epidemics7, 2019)](Epidemics7_Poster.pdf)
