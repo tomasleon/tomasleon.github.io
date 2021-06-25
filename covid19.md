@@ -15,4 +15,6 @@ Some resources that may be of interest, that include work I contributed to:
 
 * [UC Consortium Meeting Resources](https://modelingconsortium.ucsf.edu/)
 
-![CDPH](/img/CDPHLogo.gif)
+<p align="center"> 
+<img src="/img/CDPHLogo.gif" width="300" />
+</p>
