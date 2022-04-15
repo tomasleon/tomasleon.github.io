@@ -13,7 +13,7 @@ Some publications and resources that I have contributed to:
 
 * [Nonpharmaceutical Interventions Remain Essential to Reducing COVID-19 Burden Even in a Well-Vaccinated Society: A Modeling Study](https://academic.oup.com/ofid/article/8/9/ofab415/6346776)
 
-* [Comparison of COVID-19 vaccine prioritization strategies](https://www.nature.com/articles/s41598-022-06971-5)
+* [Risk factor targeting for vaccine prioritization during the COVID-19 pandemic](https://www.nature.com/articles/s41598-022-06971-5)
 
 * [California COVID Assessment Tool](https://calcat.covid19.ca.gov/cacovidmodels/)
 
